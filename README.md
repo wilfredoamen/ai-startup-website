@@ -236,3 +236,8 @@ git push origin add-contact-info
 ![img10a](./Img-git/img10a.png)
 
 
+### 10. Tom and Jerry's  GitHub Repository URL
+
+- TOM: [Tom's github repository URL](https://github.com/wilfredoamen/ai-startup-website.git)
+
+- JERRY: [Jerry's github repository URL](https://github.com/wilfredoamen/ai-startup-website.git)
