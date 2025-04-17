@@ -195,5 +195,12 @@ git commit -m "Added contact information"
 git push origin add-contact-info
 
 ```
-![img6a](./)
+![img6a](./Img-git/img6a.png)
 
+
+### 8. Create Pull Request
+- Jerry goes to his GitHub repository; He  notices there is a prompt to compare and pull request.
+- Jerry Clicks on the prompt "Compare and pull request" to request for a new pull request.
+- Add PR title: "Add contact info"
+- Add description explaining changes
+- Click "Create Pull Request" and Request review from a teammate.
