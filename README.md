@@ -163,7 +163,7 @@ git pull origin update-navigation
 ```bash
 # This will create a now branch for jerry to make his changes, keeping them separate from the main project until they are ready to be merged.
 
-git chechout -b add-contact-info
+git checkout -b add-contact-info
 ```
 ![img2a](./Img-git/Img2a.png)
 
@@ -173,7 +173,7 @@ git chechout -b add-contact-info
 
 ![img3a](./Img-git/img3a.png)
 
-### 5. Stage the changes made by Jerry
+### 5. Add changes
 
 - The command below will stage the changes made on on the index.html file and preparing the file for it to be commited. 
 
@@ -182,9 +182,9 @@ git add index.html
 ```
 ![img4a](./Img-git/img4a.png)
 
-### 6. Commit Jerry's changes
+### 6. Commit changes
 
-- The command below will save jerry;s changes to the branch history,with a message describing the exact changes made on the index.html file. 
+- The command below will save Jerry's changes to the branch history,with a message describing the exact changes made on the index.html file. 
 
 ```bash
 git commit -m "Added contact information"
@@ -193,7 +193,7 @@ git commit -m "Added contact information"
 
 ![img5a](./Img-git/img5a.png)
 
-### 7. Push Jerry's branch to the github repo.
+### 7. Push to Remote.
 
 - The command below uploads Jerry's branch to the github repository, for someone to review and merge  changes  made on the index.html file to the main.
 
