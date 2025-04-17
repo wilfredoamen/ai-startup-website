@@ -174,7 +174,7 @@ git chechout -b add-contact-info
 ```bash
 git add index.html
 ```
-![img4a](./)
+![img4a](./Img-git/img4a.png)
 
 ### 6. Commit Jerry's changes
 
@@ -185,4 +185,15 @@ git commit -m "Added contact information"
 
 ```
 
-![img5a](./)
+![img5a](./Img-git/img5a.png)
+
+### 7. Push Jerry's branch to the github repo.
+
+- The command below uploads Jerry's branch to the github repository, for someone to review and merge  changes  made on the index.html file to the main.
+
+```bash
+git push origin add-contact-info
+
+```
+![img6a](./)
+
