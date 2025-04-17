@@ -1,4 +1,4 @@
-# Git Collaboration: Tom's Workflow Documentation
+# Git Collaboration: Tom and Jerry Workflow Documentation
 
 ## Project Context
 A team is developing a website for an AI startup using Git for version control. Two developers (Tom and Jerry) need to modify the same `index.html` file simultaneously:
